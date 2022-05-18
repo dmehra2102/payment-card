@@ -1,0 +1,28 @@
+.amazon{
+    width: 40%;
+    height: 330px;
+    border: 2px solid black;
+    font-size: 22px;
+    padding: 20px;
+    margin: 10px;
+}
+.case-study {
+    width: 23%;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+ h2 {
+    font-weight: 700;
+    font-size: 28px;
+}
+.logo-div {
+    display: flex;
+    justify-content: space-evenly;
+}
+.logo-div > div {
+    display: block;
+}
+.logo-div > div > img {
+    width:50%
+}
